@@ -1,0 +1,2 @@
+# Beatriz_R_Structur_Exercise2
+structure
